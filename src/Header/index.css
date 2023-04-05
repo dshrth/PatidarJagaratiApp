@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.NavColor {
+  background-color: #ce6b57;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+}
+
+.NavElement {
+  color: #ffffff;
+  font-size: 26.29px;
+  opacity: 1;
+}
